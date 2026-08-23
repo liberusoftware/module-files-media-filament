@@ -8,7 +8,6 @@ use Filament\Pages\Page;
 
 final class Overview extends Page
 {
-    protected static string $view = 'files-media-filament::overview';
+    protected string $view = 'files-media-filament::overview';
     protected static ?string $title = 'Files and Media';
 }
-

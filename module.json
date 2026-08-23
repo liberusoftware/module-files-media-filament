@@ -3,7 +3,7 @@
   "name": "files-media-filament",
   "display_name": "Files and Media Filament",
   "description": "Files and Media filament presentation adapter.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "category": "presentation",
   "provider": "Liberu\\Foundation\\FilesMediaFilament\\FilesMediaFilamentServiceProvider",
   "requires": {
@@ -31,4 +31,3 @@
     }
   }
 }
-
